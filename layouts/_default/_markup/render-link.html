@@ -1,0 +1,18 @@
+<!-- {{$dashedurl := replace .Destination "%20" "-" }} -->
+<!-- workaround: not have dashed url for external -->
+{{$dashedurl := .Destination }} 
+{{$external := or (strings.HasPrefix $dashedurl "http") (strings.HasPrefix $dashedurl "mailto:")}}
+{{- if $external -}}
+<a href="{{ $dashedurl }}" rel="noopener" target="_blank" class="external-link">{{ .Text | safeHTML }}</a>
+{{- else -}}
+{{$trimmed := strings.TrimSuffix ".md" (.Destination | safeURL)}}
+{{$spacedurl := replace $trimmed "%20" " " }}
+{{$fixedUrl := (cond (hasPrefix $spacedurl "/") $spacedurl (print "/" $spacedurl)) | urlize}}
+{{$nonexistent := eq (.Page.GetPage $spacedurl).RelPermalink ""}}
+{{$rooted := default $spacedurl ((.Page.GetPage $spacedurl).RelPermalink) }}
+<a
+  {{if not $nonexistent}}href="{{$rooted}}"{{end}}
+  rel="noopener" class="internal-link{{if $nonexistent}} broken{{end}}"
+  data-src="{{$rooted}}">{{- .Text | safeHTML -}}
+</a>
+{{- end -}}

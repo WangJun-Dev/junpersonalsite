@@ -1,0 +1,47 @@
+baseURL = "https://fufoundation.co/"
+languageCode = "en"
+defaultContentLanguage = 'en'
+relativeURLs = false
+disablePathToLower = true
+ignoreErrors = ["error-remote-getjson"]
+# ignoreFiles = [
+#     "/content/templates/*",
+#     "/content/private/*",
+# ]
+summaryLength = 25
+enableGitInfo = false
+disableAliases = true # compatable with obsidian alias
+uglyURLs = false # This will make URLs clean without leading slashes
+
+[pagination]
+pagerSize = 10
+
+# url management
+[permalinks]
+    # put posts as root link
+    '/' = ':filename/'
+
+[markup]
+    [markup.tableOfContents]
+        endLevel = 5
+        ordered = true
+        startLevel = 2
+    [markup.highlight]
+        noClasses = false
+        anchorLineNos = false
+        codeFences = true
+        guessSyntax = true
+        hl_Lines = ""
+        lineAnchors = ""
+        lineNoStart = 1
+        lineNos = false
+        lineNumbersInTable = true
+        style = "nord"
+    [frontmatter]
+        lastmod = ["lastmod", ":git", "date", "publishDate"]
+        publishDate = ["publishDate", "date"]
+    [markup.goldmark.renderer]
+        unsafe = true
+        hardWraps = true
+    [markup.goldmark.extensions]
+        typographer = true

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}">
+{{ partial "head.html" . }}
+
+<body>
+{{partial "search.html" .}}
+<div class="singlePage">
+    <!-- Begin actual content -->
+    {{partial "header.html" .}}
+
+    <article>
+        <h1 class="article-title">{{ i18n "tag" }}: {{ .Title }}</h1>
+        {{with .Params.description}}
+            <p>{{.}}</p>
+        {{end}}
+        {{partial "page-list.html" .Paginator.Pages}}
+        {{ template "_internal/pagination.html" . }}
+    </article>
+
+    <hr>
+    
+    {{partial "contact.html" .}}
+</div>
+</body>
+</html>
+
+<script>
+    console.log('from term.html')
+</script>

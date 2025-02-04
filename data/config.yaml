@@ -1,0 +1,37 @@
+enableToc: true
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: false
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: false
+enableMermaid: true
+GitHubLink: https://github.com/example/somerepo
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+description:
+  zettelkasten.
+page_title:
+  "zettelkasten"
+links:
+  - link_name: GitHub
+    link: https://github.com/craigxiangfu
+  - link_name: Photography
+    link: https://snap.fufoundation.co
+  - link_name: File Repo
+    link: https://repo.fufoundation.co
+  - link_name: LinkedIn
+    link: https://www.linkedin.com/in/craigxfu/
+  - link_name: Google Scholar
+    link: https://scholar.google.com/citations?user=3CzDreAAAAAJ&hl=en&authuser=1
+
+textProcessingDebug: false
+
+tocHeadingsDepth: 5 # to what heading level does article get segmented by heading

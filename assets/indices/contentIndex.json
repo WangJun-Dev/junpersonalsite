@@ -1,0 +1,103 @@
+{
+  "/Tennis Wiki": {
+    "title": "Tennis Wiki",
+    "tags": [
+      "wiki"
+    ],
+    "content": ""
+  },
+  "/CV": {
+    "title": "CV",
+    "tags": [],
+    "content": "This is my CV."
+  },
+  "/BU Course Wiki": {
+    "title": "BU Course Wiki",
+    "tags": [
+      "wiki"
+    ],
+    "content": "A collection of courses I've taken at [[BU Wiki|Boston University]].\n\nFeel free to check out these:\n\n- [[AIML Courses at BU|AIML Courses at BU]]\n- [[Data Science Course at BU|Data Science Course at BU]]\n\n**These are the courses I plan to take at BU.**\n\n## Summer 2025, Fall 2025, and Spring 2026\n\n**Computing and Data Sciences**\n\n- CDS DS 497 - Special Topics on Social and Behavioral Sciences: Data Science of the Mind\n- CDS DS 522 / CAS MA 586 - Stochastic Methods for Algorithms\n- CDS DS 526 - Critical Reading in Biological Data Science\n- CDS DS 542 - Deep Learning for Data Science\n- CDS DS 563 / CAS CS 543 - Algorithmic Techniques for Taming Big Data\n- CDS DS 574 - Algorithmic Mechanism Design\n- CDS DS 587 - Data Science in Human Contexts\n- CDS DS 595 - Special Topics in Physical and Engineering Sciences\n\n**Computer Science**\n\n- CAS CS 541 - Applied Machine Learning\n\n**Neuroscience**\n\n- CAS NE 204 - Introduction to Computational Models of Brain and Behavior\n\n**Writing**\n\n- CAS WR 153 - Writing, Research, & Inquiry with Creativity/Innovation\n    - Topic: AI Philosophy and Ethics\n\n**These are the courses I've taken or in the process of taking at BU.**\n\n## Spring 2025\n\n- CAS CS 440 - Introduction to Artificial Intelligence\n- CAS CS 505 - Introduction to Natural Language Processing\n- CAS CS 599 - Advanced Topics in Computer Science: Multimodal Machine Learning (MMML)\n- CAS CS 599 - Advanced Topics in Computer Science: Privacy in Statistics and Machine Learning\n- CDS DS 380 / 680 - Data, Society, and AI Ethics\n\n## Fall 2024\n\n- CDS DS 340 - Introduction to Machine Learning and AI\n- CDS DS 561 - Software Engineering Development on Modern Cloud Environments\n- CDS DS 591 / 598 - Special Topics in Machine Learning: Engineering for Big Data Solutions\n- CDS DS 596 - Special Topics in Natural, Biological and Medical Sciences: Introduction to Bioinformatics\n- CAS MA 415 / GRS MA 615 - Data Science in R\n\n## Summer 2024\n\n- CAS PS 101 - General Psychology\n- CAS PO 399 / 599 - Data Science for Politics\n- CAS SO 100 - Principles in Sociology\n- CAS PH 100 - Introduction to Philosophy\n\n## Spring 2024\n\n- CAS LX 496 / GRS LX 796 / MET LX 596 - Computational Linguistics\n- CDS DS 320 - Algorithms for Data Science\n- CDS DS 453 / 653 - Crypto for Data Science\n- CDS DS 551 / 593 - Special Topics in Data Science Methodologies: Data Engineering at Scale\n- CDS DS 596 - Special Topics in Natural, Biological and Medical Sciences: Foundations of Biological Data Science\n\n## Fall 2023\n\n- CDS DS 310 - Data Mechanics\n- CDS DS 122 - Foundations of Data Science III\n- CAS IR 376 / PO 381 - American Foreign Policy since 1945\n- CAS EE 100 - Environmental Change and Sustainability\n- SED ED 245 - Theory and Practice of Peer Counseling\n\n## Summer 2023\n\n- CAS MA 214 - Applied Statistics\n- SAR HP 353 - Organization and Delivery of Health Care in the U.S.\n\n## Spring 2023\n\n- CDS DS 210 - Programming for Data Science\n- CDS DS 121 - Foundations of Data Science II\n- CAS IR 350 / HI 334 - History of International Relations since 1945\n- CAS AH 395 - History of Photography\n- CAS WR 120 - First-Year Writing Seminar\n\n## Fall 2022\n\n- CDS DS 110 - Introduction to Data Science with Python\n- CDS DS 120 - Foundations of Data Science I\n- CAS IR 271 / PO 171 - Introduction to International Relations\n- CAS WR 112 - Critical Literacies for ELL"
+  },
+  "/Ideas": {
+    "title": "Ideas",
+    "tags": [],
+    "content": "A collection of thoughts, ideas, and random musings. Many of these evolve into [[projects]] and [[blog posts]]."
+  },
+  "/Data Science Course at BU": {
+    "title": "Data Science Course at BU",
+    "tags": [],
+    "content": "A list of Data Science courses at [[BU Wiki|Boston University]].\n\n## Computing and Data Sciences\n\n- CDS DS 100 - Data Speak Louder Than Words\n- CDS DS 110 - Introduction to Data Science with Python\n    - Kevin Gold\n    - [Scott Ladenheim](https://scottladenheim.com)\n- CDS DS 120 - Foundations of Data Science I\n- CDS DS 121 - Foundations of Data Science II\n    - [Mayank Varia](https://www.mvaria.com)\n    - [Allison McDonald](https://amcdon.com/)\n- CDS DS 122 - Foundations of Data Science III\n    - [Pawel Przytycki](https://przytycki.com)\n    - Elizaveta Wobbes\n- CDS DS 210 - Programming for Data Science\n    - Leonidas Kontothanassis\n    - Thomas Gardos\n    - [Alishah Chator](https://alishahc.com)\n- CDS DS 229 - Introduction to Product Management\n- CDS DS 310 - Data Mechanics\n    - Christopher Seferlis\n    - [Xuezhou Zhang](https://zhangxz1123.github.io)\n    - Mark Crovella\n    - [Scott Ladenheim](https://scottladenheim.com)\n- CDS DS 320 - Algorithms for Data Science\n    - [Krzysztof Onak](https://onak.pl)\n    - [Kira Goldner](https://www.kiragoldner.com)\n    - Jeffrey Considine\n- CDS DS 340 - Introduction to Machine Learning and AI\n    - Kevin Gold\n- CDS DS 380 - Data, Society, and AI Ethics\n- CDS DS 381 - Social Justice for Data Science\n- CDS DS 453 / 653 - Crypto for Data Science\n    - [Mayank Varia](https://www.mvaria.com)\n- CDS DS 497 / 597 - Special Topics on Social and Behavioral Sciences\n    - Data Science of the Mind\n        - [Joshua Peterson](https://cocosci.princeton.edu/jpeterson/)\n- CDS DS 522 / CAS MA 586 - Stochastic Methods for Algorithms\n    - [Jonathan Huggins](http://jhhuggins.org)\n- CDS DS 526 - Critical Reading in Biological Data Science\n    - Brian Cleary\n- CDS DS 542 - Deep Learning for Data Science\n    - Thomas Gardos\n    - Jeffrey Considine\n- CDS DS 543 - Introduction to Reinforcement Learning\n    - [Xuezhou Zhang](https://zhangxz1123.github.io)\n- CDS DS 561 - Software Engineering Development on Modern Cloud Environments\n    - Leonidas Kontothanassis\n- CDS DS 591 / 598 - Engineering for Big Data Solutions\n    - Christopher Seferlis\n- CDS DS 593 - Special Topics in Data Science Methodologies\n    - Data Engineerring at Scale\n        - Langdon White\n    - Privacy in Practice\n        - [Alishah Chator](https://alishahc.com)\n- CDS DS 595 - Special Topics in Physical and Engineering Sciences\n- CDS DS 596 - Special Topics in Natural, Biological and Medical Sciences\n    - Foundations of Biological Data Science\n        - Brian Cleary\n    - Introduction to Bioinformatics\n        - Pawel Przytycki\n- CDS DS 719 - Data Science Product Management I\n    - Ziba Cranmer\n\n## Computer Science\n\n- CAS CS 365 - Foundations of Data Science\n- CAS CS 506 - Data Science Tools and Applications\n\n## Mathematics and Statistics\n\n- MA 415 - Data Science in R\n\n## Biostatistics\n\n- SPH BS 845 - Data Science and Statistical Modeling in R"
+  },
+  "/Chain of Thoughts": {
+    "title": "Chain of Thoughts",
+    "tags": [
+      "notes"
+    ],
+    "content": "CoT allows models to leverage asymmetry of verification.\n\nA class of problems has \"asymmetry of verification\", which means it's easier to\nverify a solution than to generate one.\n\nFor example, a crossword puzzle, sudoku, or writing a poem that fits constraints"
+  },
+  "/AIML Courses at BU": {
+    "title": "AIML Courses at Boston University (BU)",
+    "tags": [],
+    "content": "A list of AIML courses at [[BU Wiki|Boston University]].\n\n## Computing and Data Sciences\n\n- CDS DS 340 - Introduction to Machine Learning and AI\n    - [Kevin Gold](https://www.bu.edu/cds-faculty/profile/klgold/)\n- CDS DS 542 - Deep Learning for Data Science\n    - [Thomas Gardos](https://www.bu.edu/cds-faculty/profile/thomas-gardos/)\n    - [Jeffrey Considine](https://www.jefconsidine.com)\n- CDS DS 543 - Introduction to Reinforcement Learning\n    - [Xuezhou Zhang](https://zhangxz1123.github.io)\n- CDS DS 592 - Special Topics in Mathematical and Computational Sciences: Introduction to Sequential Decision Making\n    - [Aldo Pacchiano](https://aldopacchiano.ai/)\n\n## Computer Science\n\n- CAS CS 440 - Introduction to Artificial Intelligence\n    - [Andrew Wood](https://aew61.github.io/)\n    - [Sarah Bargal](https://bargal.georgetown.domains/)\n    - [Yida Xin](https://scholar.google.com/citations?hl=en&user=z8H2NSIAAAAJ&view_op=list_works&sortby=pubdate)\n- CAS CS 505 - Introduction to Natural Language Processing\n    - [Andrew Wood](https://aew61.github.io/)\n    - [Wayne Snyder](https://www.cs.bu.edu/fac/snyder/Home.html)\n    - [Derry Wijaya](https://derrywijaya.github.io/)\n- CAS CS 523 - Deep Learning\n    - [Iddo Drori](https://cs-people.bu.edu/idrori/)\n    - [Brian Kulis](https://people.bu.edu/bkulis/)\n    - [Kate Saenko](https://ai.bu.edu/ksaenko.html)\n    - [Kayhan Batmanghelich](https://www.batman-lab.com/)\n- CAS CS 541 - Applied Machine Learning\n    - [Deepti Ghadiyaram](https://deeptigp.github.io)\n    - [Bryan A. Plummer](https://www.bryanplummer.com)\n- CAS CS 542 - Principles of Machine Learning\n    - [Boqing Gong](http://boqinggong.info)\n    - [Bryan A. Plummer](https://www.bryanplummer.com)\n    - [Kate Saenko](https://ai.bu.edu/ksaenko.html)\n    - [Iddo Drori](https://cs-people.bu.edu/idrori/)\n    - [Sarah Bargal](https://bargal.georgetown.domains/)\n- CAS CS 598 - Multimodal Machine Learning\n    - [Bryan A. Plummer](https://www.bryanplummer.com)\n- CAS CS 599 - Privacy in Statistics and Machine Learning\n    - [Adam Smith](https://cs-people.bu.edu/ads22/)\n    - [Jonathan Ullman](https://jonathan-ullman.github.io)\n\n## Linguistics\n\n- CAS LX 394 / GRS LX 694 / MET LX 594 - Introduction to Programming for Computational Linguistics\n    - [Najoung Kim](https://najoung.kim)\n    - [Paul Hagstrom](https://www.bu.edu/linguistics/profile/paul-hagstrom/)\n- CAS LX 496 / GRS LX 796 / MET LX 596 - Computational Linguistics\n    - [Najoung Kim](https://najoung.kim)\n    - [Paul Hagstrom](https://www.bu.edu/linguistics/profile/paul-hagstrom/)\n    - [Wayne Snyder](https://www.cs.bu.edu/fac/snyder/Home.html)\n\n## Mathematics and Statistics\n\n- CAS MA 679 - Applied Statistical Machine Learning\n    - [Masanao Yajima](https://www.bu.edu/math/profile/masanao-yajima/)\n- CAS MA 751 - Statistical Machine Learning\n    - [Mark Kon](https://math.bu.edu/people/mkon/)\n\n## Electrical and Computer Engineering\n\n- ENG EC 414 - Introduction to Machine Learning\n    - [Ashok Cutkosky](https://ashok.cutkosky.com)\n    - [Brian Kulis](https://people.bu.edu/bkulis/)\n    - [Prakash Ishwar](https://sites.bu.edu/pi/)\n    - [Kayhan Batmanghelich](https://www.batman-lab.com/)\n- ENG EC 418 - Introduction to Reinforcement Learning\n    - [Alexander Olshevsky](https://sites.bu.edu/aolshevsky/)\n- ENG EC 523 - Deep Learning\n    - [Brian Kulis](https://people.bu.edu/bkulis/)\n    - [Kayhan Batmanghelich](https://www.batman-lab.com/)\n    - [Iddo Drori](https://cs-people.bu.edu/idrori/)\n    - [Kate Saenko](https://ai.bu.edu/ksaenko.html)\n- ENG EC 525 - Optimization for Machine Learning\n    - [Ashok Cutkosky](https://ashok.cutkosky.com)\n\n## Biomedical Engineering\n\n- ENG BE 559 - Foundations of Biomedical Data Science and Machine Learning\n    - [Brian Depasquale](https://depasquale-lab.github.io/members/brian-depasquale.html)\n    - [Michael Economo](https://economolab.org/)\n\n## Questrom School of Business\n\n- QST BA 476 - Machine Learning for Business Analytics\n    - Changseung Yoo\n    - [Gerdus Benadè](https://www.gerdusbenade.com/)\n    - [Georgios Zervas](https://people.bu.edu/zg/)\n- QST BA 810 - Supervised Machine Learning\n    - [Georgios Zervas](https://people.bu.edu/zg/)\n    - [Nachiketa Sahoo](https://people.bu.edu/nachi/)\n- QST BA 820 - Unsupervised and Unstructured Machine Learning\n    - [Mohannad Elhamod](https://wordpress.cs.vt.edu/elhamod/)\n- QST MF 815 - Advanced Machine Learning Applications for Finance\n    - [Hao Xing](https://sites.google.com/view/hao-xing/home)\n- QST MK 842 - Machine Learning for Business Analytics\n    - [Gerdus Benadè](https://www.gerdusbenade.com/)\n    - [Georgios Zervas](https://people.bu.edu/zg/)"
+  },
+  "/Papers We Love": {
+    "title": "Papers We Love",
+    "tags": [],
+    "content": "A list of papers we love.\n\n### Sequence-Level Knowledge Distillation\n- Paper: [https://arxiv.org/abs/1606.07947](https://arxiv.org/abs/1606.07947)\n- Authors:\n    - [Yoon Kim](https://people.csail.mit.edu/yoonkim/)\n    - [Alexander M. Rush](https://rush-nlp.com)"
+  },
+  "/Public Key": {
+    "title": "Public Key",
+    "tags": [],
+    "content": "```\n-----BEGIN PGP PUBLIC KEY BLOCK-----\n\n\n\n\n\n\n-----END PGP PUBLIC KEY BLOCK-----\n```"
+  },
+  "/Reading Groups": {
+    "title": "Reading Groups",
+    "tags": [],
+    "content": "A list of awesome reading groups.\n\n- **Political Economy and Computer Science Reading Group**\n    - [Website](https://freddyreiber.info/PECS.html)\n    - Organizer: Freddy Reiber and Eugene Kim\n- **Inequality and Ordeals**\n    - [Website](https://www.kiragoldner.com/teaching/ordeals/index.html)\n    - Organizer: [Sam Taggart](http://samueltaggart.com) and [Kira Goldner](https://www.kiragoldner.com)"
+  },
+  "/Schedule": {
+    "title": "Schedule",
+    "tags": [],
+    "content": "My personal schedule."
+  },
+  "/Some BU Course Load Stats": {
+    "title": "Some BU Course Load Stats",
+    "tags": [
+      "post"
+    ],
+    "content": ""
+  },
+  "/Planet 404": {
+    "title": "Planet 404",
+    "tags": [],
+    "content": "A mysterious place where lost ideas and broken links find their home. Sometimes you'll find fragments of [[ideas]] and abandoned [[projects]] here."
+  },
+  "/Projects": {
+    "title": "Projects",
+    "tags": [],
+    "content": "A collection of my projects and experiments. Some of these are documented in my [blog posts], and many started as [[ideas]].\n\n## Learning from Verbal Rules vs. Data [2025 - Present]\n\nWe investigates the efficiency and effectiveness of Large Language Models in learning new systems through two distinct approaches: verbal rule descriptions and data examples. We explore whether LLMs exhibit different learning patterns and performance when presented with explicit rules versus learning from exemplar data.\n\n**GitHub**: [https://github.com/modulariumresearch/ror](https://github.com/modulariumresearch/ror)\n**Advisor**: [Najoung Kim](https://najoung.kim)\n\n## Decentralized Neural Traffic Orchestration [2024]\n\nWe present DNC, a cooperative multi-agent reinforcement learning framework for traffic signal optimization that introduces two key innovations: an Integrated Deep Q-Network (DQN) combining hierarchical learning, shared experience, and state-sharing mechanisms, and a novel Communication-Aware State Fusion (CASF) method that uses attention mechanisms to dynamically weight state information based on neighborhood topology. Final project for Fall 2024's [DS 340 Introduction to Machine Learning and AI](https://www.bu.edu/academics/cds/courses/cds-ds-340/).\n\n**GitHub**: [https://github.com/modulariumresearch/dnc](https://github.com/modulariumresearch/dnc)\n**Collaborator**: [George Jiang](https://www.linkedin.com/in/george-jiang-b7922b153)\n\n## KITE: Kernel-based Inference of Trait Epistasis [2024]\n\nKITE is a Python package for detecting epistatic interactions in quantitative trait loci (QTL) data using kernel-based methods. Final project for Spring 2024's [DS 596 Foundations of Biological Data Science](https://www.bu.edu/academics/cds/courses/cds-ds-596/).\n\n**GitHub**: [https://github.com/modulariumresearch/kite](https://github.com/modulariumresearch/kite)\n**Advisor**: [Brian Cleary](https://www.bu.edu/cds-faculty/profile/bcleary/)\n\n## CoPDA [2024]\n\nA large-scale analytics system for computational policy document analysis of Chinese Government Policy Documents.\n\n**GitHub**: [https://github.com/modulariumresearch/copda](https://github.com/modulariumresearch/copda)\n**Collaborator**: [Bo Feng](https://sites.google.com/view/bfeng/homepage)\n\n## GomokuPro [2022]\n\nA novel algorithm leveraging a Convolutional Neural Network (CNN) and Monte Carlo tree search. We aim to address the long computation times faced by traditional algorithms in board games. By transforming a multidimensional fractional model into an adaptive model, we built upon a previously developed single-strategy machine learning framework capable of making judgments and predictions using human-like decision algorithms.\n\n**Paper**: [https://ieeexplore.ieee.org/document/9778476](https://ieeexplore.ieee.org/document/9778476)\n**GitHub**: [https://github.com/modulariumresearch/gomokupro](https://github.com/modulariumresearch/gomokupro)\n**Advisor**: [Vipul Goyal](https://vipulgoyal.org)"
+  },
+  "/BU Wiki": {
+    "title": "BU Wiki",
+    "tags": [
+      "BU",
+      "wiki"
+    ],
+    "content": "Here you can find:\n\n- [[BU Course Wiki|Courses]] I'm taking\n- Projects and research\n- Resources and notes"
+  },
+  "/Faculty at Vector Institute": {
+    "title": "Faculty at Vector Institute",
+    "tags": [],
+    "content": "A list of faculty at Vector Institute.\n\n## Faculty\n\n- Anatole von Lilientela\n- Anna Goldenberg\n- Bo Wang\n- Chris Maddison\n- Colin Raffel\n- Daniel Roy\n- Evan Shelhamer\n- Frank Rudzicz\n- Freda Shi\n- Gautam Kamath\n- Geoff Pleiss\n- Graham Taylor\n- Jeff Clune\n- Kelsey Allen\n- Leonid Sigal\n- Michael Brudno\n- Murat Erdogdu\n- Nicolas Papernot\n- Parvin Mousavi\n- Pascal Poupart\n- Rahul G. Krishnan\n- Renjie Liao\n- Roger Grosse\n- Sageev Oore\n- Sanja Fidler\n- Shai Ben-David\n- Sheila Mcllraith\n- Shuang Li\n- Sivan Sabato\n- Vered Shwartz\n- Victor Zhong\n- Wenhu Chen\n- Xi He\n- Xiaoxiao Li\n- Yalda Mohsenzadeh\n- Yaoliang Yu"
+  },
+  "/Sepia": {
+    "title": "Sepia",
+    "tags": [],
+    "content": "## Agents in Sepia\n\nEvery Agent in Sepia follows the same lifecycle:\n\n- Constructor – called once when the game engine instantiates your agent (no map info yet).\n- initialStep(StateView, HistoryView) – called on turn 0. This is your chance to look at the starting map (units, resources, etc.).\n- middleStep(StateView, HistoryView) – called each turn (1, 2, 3, …) until the game ends. This is where you return actions for your units.\n- terminalStep(StateView, HistoryView) – called after the game ends (e.g. to print out who won or final stats)."
+  },
+  "/_index": {
+    "title": "Welcome",
+    "tags": [],
+    "content": "Hello, traveller from afar who has wandered into this little patch of land on the internet. Be your visit by chance or by intent, welcome. May you find what you seek, or perhaps discover something delightful.\n\nI'm Xiang Fu, currently a Data Science student in the [Faculty of Computing and Data Sciences (CDS)](https://www.bu.edu/cds-faculty/) at [[BU Wiki|Boston University]], taking [[BU Course Wiki|these courses]]. Most recently, I've been working with the wonderful [Najoung Kim](https://najoung.kim), and equally wonderful [Catherine Caldwell-Harris](https://www.bu.edu/psych/charris/).\n\nShould you choose to explore further, you might start with some [[Projects|projects]], [photos](https://snap.fufoundation.co), or [[Ideas|ideas]]. For those who enjoy playing around with maps, scroll down and one shall be revealed.\n\nYou can also try to visit [[Planet 404|Planet 404]] if you find yourself absolutely bored. There's also my [[CV|CV]], [[Schedule|schedule]], or [[Public Key|Public Key]] in case you're looking for any of those.\n\n---\n\n## News\n\n**18 September 2024**\nAwarded the Provost's Scholars Award for the AI-Powered Soccer Strategy Simulation Platform."
+  }
+}

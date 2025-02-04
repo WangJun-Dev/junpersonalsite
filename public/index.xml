@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome on</title><link>https://fufoundation.co/</link><description>Recent content in Welcome on</description><generator>Hugo</generator><language>en</language><atom:link href="https://fufoundation.co/index.xml" rel="self" type="application/rss+xml"/><item><title>AIML Courses at Boston University (BU)</title><link>https://fufoundation.co/AIML-Courses-at-BU/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/AIML-Courses-at-BU/</guid><description>&lt;p>A list of AIML courses at [[BU Wiki|Boston University]].&lt;/p>
+&lt;h2 id="computing-and-data-sciences">Computing and Data Sciences&lt;/h2>
+&lt;ul>
+&lt;li>CDS DS 340 - Introduction to Machine Learning and AI
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://www.bu.edu/cds-faculty/profile/klgold/" rel="noopener" target="_blank" class="external-link">Kevin Gold&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 542 - Deep Learning for Data Science
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://www.bu.edu/cds-faculty/profile/thomas-gardos/" rel="noopener" target="_blank" class="external-link">Thomas Gardos&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://www.jefconsidine.com" rel="noopener" target="_blank" class="external-link">Jeffrey Considine&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 543 - Introduction to Reinforcement Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://zhangxz1123.github.io" rel="noopener" target="_blank" class="external-link">Xuezhou Zhang&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 592 - Special Topics in Mathematical and Computational Sciences: Introduction to Sequential Decision Making
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://aldopacchiano.ai/" rel="noopener" target="_blank" class="external-link">Aldo Pacchiano&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="computer-science">Computer Science&lt;/h2>
+&lt;ul>
+&lt;li>CAS CS 440 - Introduction to Artificial Intelligence
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://aew61.github.io/" rel="noopener" target="_blank" class="external-link">Andrew Wood&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://bargal.georgetown.domains/" rel="noopener" target="_blank" class="external-link">Sarah Bargal&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://scholar.google.com/citations?hl=en&amp;amp;user=z8H2NSIAAAAJ&amp;amp;view_op=list_works&amp;amp;sortby=pubdate" rel="noopener" target="_blank" class="external-link">Yida Xin&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CAS CS 505 - Introduction to Natural Language Processing
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://aew61.github.io/" rel="noopener" target="_blank" class="external-link">Andrew Wood&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://www.cs.bu.edu/fac/snyder/Home.html" rel="noopener" target="_blank" class="external-link">Wayne Snyder&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://derrywijaya.github.io/" rel="noopener" target="_blank" class="external-link">Derry Wijaya&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CAS CS 523 - Deep Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://cs-people.bu.edu/idrori/" rel="noopener" target="_blank" class="external-link">Iddo Drori&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://people.bu.edu/bkulis/" rel="noopener" target="_blank" class="external-link">Brian Kulis&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://ai.bu.edu/ksaenko.html" rel="noopener" target="_blank" class="external-link">Kate Saenko&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://www.batman-lab.com/" rel="noopener" target="_blank" class="external-link">Kayhan Batmanghelich&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CAS CS 541 - Applied Machine Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://deeptigp.github.io" rel="noopener" target="_blank" class="external-link">Deepti Ghadiyaram&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://www.bryanplummer.com" rel="noopener" target="_blank" class="external-link">Bryan A. Plummer&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CAS CS 542 - Principles of Machine Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="http://boqinggong.info" rel="noopener" target="_blank" class="external-link">Boqing Gong&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://www.bryanplummer.com" rel="noopener" target="_blank" class="external-link">Bryan A. Plummer&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://ai.bu.edu/ksaenko.html" rel="noopener" target="_blank" class="external-link">Kate Saenko&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://cs-people.bu.edu/idrori/" rel="noopener" target="_blank" class="external-link">Iddo Drori&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://bargal.georgetown.domains/" rel="noopener" target="_blank" class="external-link">Sarah Bargal&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CAS CS 598 - Multimodal Machine Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://www.bryanplummer.com" rel="noopener" target="_blank" class="external-link">Bryan A. Plummer&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CAS CS 599 - Privacy in Statistics and Machine Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://cs-people.bu.edu/ads22/" rel="noopener" target="_blank" class="external-link">Adam Smith&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://jonathan-ullman.github.io" rel="noopener" target="_blank" class="external-link">Jonathan Ullman&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="linguistics">Linguistics&lt;/h2>
+&lt;ul>
+&lt;li>CAS LX 394 / GRS LX 694 / MET LX 594 - Introduction to Programming for Computational Linguistics
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://najoung.kim" rel="noopener" target="_blank" class="external-link">Najoung Kim&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://www.bu.edu/linguistics/profile/paul-hagstrom/" rel="noopener" target="_blank" class="external-link">Paul Hagstrom&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CAS LX 496 / GRS LX 796 / MET LX 596 - Computational Linguistics
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://najoung.kim" rel="noopener" target="_blank" class="external-link">Najoung Kim&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://www.bu.edu/linguistics/profile/paul-hagstrom/" rel="noopener" target="_blank" class="external-link">Paul Hagstrom&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://www.cs.bu.edu/fac/snyder/Home.html" rel="noopener" target="_blank" class="external-link">Wayne Snyder&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="mathematics-and-statistics">Mathematics and Statistics&lt;/h2>
+&lt;ul>
+&lt;li>CAS MA 679 - Applied Statistical Machine Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://www.bu.edu/math/profile/masanao-yajima/" rel="noopener" target="_blank" class="external-link">Masanao Yajima&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CAS MA 751 - Statistical Machine Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://math.bu.edu/people/mkon/" rel="noopener" target="_blank" class="external-link">Mark Kon&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="electrical-and-computer-engineering">Electrical and Computer Engineering&lt;/h2>
+&lt;ul>
+&lt;li>ENG EC 414 - Introduction to Machine Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://ashok.cutkosky.com" rel="noopener" target="_blank" class="external-link">Ashok Cutkosky&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://people.bu.edu/bkulis/" rel="noopener" target="_blank" class="external-link">Brian Kulis&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://sites.bu.edu/pi/" rel="noopener" target="_blank" class="external-link">Prakash Ishwar&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://www.batman-lab.com/" rel="noopener" target="_blank" class="external-link">Kayhan Batmanghelich&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>ENG EC 418 - Introduction to Reinforcement Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://sites.bu.edu/aolshevsky/" rel="noopener" target="_blank" class="external-link">Alexander Olshevsky&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>ENG EC 523 - Deep Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://people.bu.edu/bkulis/" rel="noopener" target="_blank" class="external-link">Brian Kulis&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://www.batman-lab.com/" rel="noopener" target="_blank" class="external-link">Kayhan Batmanghelich&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://cs-people.bu.edu/idrori/" rel="noopener" target="_blank" class="external-link">Iddo Drori&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://ai.bu.edu/ksaenko.html" rel="noopener" target="_blank" class="external-link">Kate Saenko&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>ENG EC 525 - Optimization for Machine Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://ashok.cutkosky.com" rel="noopener" target="_blank" class="external-link">Ashok Cutkosky&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="biomedical-engineering">Biomedical Engineering&lt;/h2>
+&lt;ul>
+&lt;li>ENG BE 559 - Foundations of Biomedical Data Science and Machine Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://depasquale-lab.github.io/members/brian-depasquale.html" rel="noopener" target="_blank" class="external-link">Brian Depasquale&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://economolab.org/" rel="noopener" target="_blank" class="external-link">Michael Economo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="questrom-school-of-business">Questrom School of Business&lt;/h2>
+&lt;ul>
+&lt;li>QST BA 476 - Machine Learning for Business Analytics
+&lt;ul>
+&lt;li>Changseung Yoo&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://www.gerdusbenade.com/" rel="noopener" target="_blank" class="external-link">Gerdus Benadè&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://people.bu.edu/zg/" rel="noopener" target="_blank" class="external-link">Georgios Zervas&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>QST BA 810 - Supervised Machine Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://people.bu.edu/zg/" rel="noopener" target="_blank" class="external-link">Georgios Zervas&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://people.bu.edu/nachi/" rel="noopener" target="_blank" class="external-link">Nachiketa Sahoo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>QST BA 820 - Unsupervised and Unstructured Machine Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://wordpress.cs.vt.edu/elhamod/" rel="noopener" target="_blank" class="external-link">Mohannad Elhamod&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>QST MF 815 - Advanced Machine Learning Applications for Finance
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://sites.google.com/view/hao-xing/home" rel="noopener" target="_blank" class="external-link">Hao Xing&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>QST MK 842 - Machine Learning for Business Analytics
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://www.gerdusbenade.com/" rel="noopener" target="_blank" class="external-link">Gerdus Benadè&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://people.bu.edu/zg/" rel="noopener" target="_blank" class="external-link">Georgios Zervas&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>BU Course Wiki</title><link>https://fufoundation.co/BU-Course-Wiki/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/BU-Course-Wiki/</guid><description>&lt;p>A collection of courses I&amp;rsquo;ve taken at [[BU Wiki|Boston University]].&lt;/p>
+&lt;p>Feel free to check out these:&lt;/p>
+&lt;ul>
+&lt;li>[[AIML Courses at BU|AIML Courses at BU]]&lt;/li>
+&lt;li>[[Data Science Course at BU|Data Science Course at BU]]&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>These are the courses I plan to take at BU.&lt;/strong>&lt;/p></description></item><item><title>BU Wiki</title><link>https://fufoundation.co/BU-Wiki/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/BU-Wiki/</guid><description>&lt;p>Here you can find:&lt;/p>
+&lt;ul>
+&lt;li>[[BU Course Wiki|Courses]] I&amp;rsquo;m taking&lt;/li>
+&lt;li>Projects and research&lt;/li>
+&lt;li>Resources and notes&lt;/li>
+&lt;/ul></description></item><item><title>Chain of Thoughts</title><link>https://fufoundation.co/Chain-of-Thoughts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/Chain-of-Thoughts/</guid><description>&lt;p>CoT allows models to leverage asymmetry of verification.&lt;/p>
+&lt;p>A class of problems has &amp;ldquo;asymmetry of verification&amp;rdquo;, which means it&amp;rsquo;s easier to&lt;br>
+verify a solution than to generate one.&lt;/p></description></item><item><title>CV</title><link>https://fufoundation.co/CV/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/CV/</guid><description>&lt;p>This is my CV.&lt;/p></description></item><item><title>Data Science Course at BU</title><link>https://fufoundation.co/Data-Science-Course-at-BU/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/Data-Science-Course-at-BU/</guid><description>&lt;p>A list of Data Science courses at [[BU Wiki|Boston University]].&lt;/p>
+&lt;h2 id="computing-and-data-sciences">Computing and Data Sciences&lt;/h2>
+&lt;ul>
+&lt;li>CDS DS 100 - Data Speak Louder Than Words&lt;/li>
+&lt;li>CDS DS 110 - Introduction to Data Science with Python
+&lt;ul>
+&lt;li>Kevin Gold&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://scottladenheim.com" rel="noopener" target="_blank" class="external-link">Scott Ladenheim&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 120 - Foundations of Data Science I&lt;/li>
+&lt;li>CDS DS 121 - Foundations of Data Science II
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://www.mvaria.com" rel="noopener" target="_blank" class="external-link">Mayank Varia&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://amcdon.com/" rel="noopener" target="_blank" class="external-link">Allison McDonald&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 122 - Foundations of Data Science III
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://przytycki.com" rel="noopener" target="_blank" class="external-link">Pawel Przytycki&lt;/a>&lt;/li>
+&lt;li>Elizaveta Wobbes&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 210 - Programming for Data Science
+&lt;ul>
+&lt;li>Leonidas Kontothanassis&lt;/li>
+&lt;li>Thomas Gardos&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://alishahc.com" rel="noopener" target="_blank" class="external-link">Alishah Chator&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 229 - Introduction to Product Management&lt;/li>
+&lt;li>CDS DS 310 - Data Mechanics
+&lt;ul>
+&lt;li>Christopher Seferlis&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://zhangxz1123.github.io" rel="noopener" target="_blank" class="external-link">Xuezhou Zhang&lt;/a>&lt;/li>
+&lt;li>Mark Crovella&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://scottladenheim.com" rel="noopener" target="_blank" class="external-link">Scott Ladenheim&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 320 - Algorithms for Data Science
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://onak.pl" rel="noopener" target="_blank" class="external-link">Krzysztof Onak&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://www.kiragoldner.com" rel="noopener" target="_blank" class="external-link">Kira Goldner&lt;/a>&lt;/li>
+&lt;li>Jeffrey Considine&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 340 - Introduction to Machine Learning and AI
+&lt;ul>
+&lt;li>Kevin Gold&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 380 - Data, Society, and AI Ethics&lt;/li>
+&lt;li>CDS DS 381 - Social Justice for Data Science&lt;/li>
+&lt;li>CDS DS 453 / 653 - Crypto for Data Science
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://www.mvaria.com" rel="noopener" target="_blank" class="external-link">Mayank Varia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 497 / 597 - Special Topics on Social and Behavioral Sciences
+&lt;ul>
+&lt;li>Data Science of the Mind
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://cocosci.princeton.edu/jpeterson/" rel="noopener" target="_blank" class="external-link">Joshua Peterson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 522 / CAS MA 586 - Stochastic Methods for Algorithms
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="http://jhhuggins.org" rel="noopener" target="_blank" class="external-link">Jonathan Huggins&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 526 - Critical Reading in Biological Data Science
+&lt;ul>
+&lt;li>Brian Cleary&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 542 - Deep Learning for Data Science
+&lt;ul>
+&lt;li>Thomas Gardos&lt;/li>
+&lt;li>Jeffrey Considine&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 543 - Introduction to Reinforcement Learning
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://zhangxz1123.github.io" rel="noopener" target="_blank" class="external-link">Xuezhou Zhang&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 561 - Software Engineering Development on Modern Cloud Environments
+&lt;ul>
+&lt;li>Leonidas Kontothanassis&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 591 / 598 - Engineering for Big Data Solutions
+&lt;ul>
+&lt;li>Christopher Seferlis&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 593 - Special Topics in Data Science Methodologies
+&lt;ul>
+&lt;li>Data Engineerring at Scale
+&lt;ul>
+&lt;li>Langdon White&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Privacy in Practice
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://alishahc.com" rel="noopener" target="_blank" class="external-link">Alishah Chator&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 595 - Special Topics in Physical and Engineering Sciences&lt;/li>
+&lt;li>CDS DS 596 - Special Topics in Natural, Biological and Medical Sciences
+&lt;ul>
+&lt;li>Foundations of Biological Data Science
+&lt;ul>
+&lt;li>Brian Cleary&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Introduction to Bioinformatics
+&lt;ul>
+&lt;li>Pawel Przytycki&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>CDS DS 719 - Data Science Product Management I
+&lt;ul>
+&lt;li>Ziba Cranmer&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="computer-science">Computer Science&lt;/h2>
+&lt;ul>
+&lt;li>CAS CS 365 - Foundations of Data Science&lt;/li>
+&lt;li>CAS CS 506 - Data Science Tools and Applications&lt;/li>
+&lt;/ul>
+&lt;h2 id="mathematics-and-statistics">Mathematics and Statistics&lt;/h2>
+&lt;ul>
+&lt;li>MA 415 - Data Science in R&lt;/li>
+&lt;/ul>
+&lt;h2 id="biostatistics">Biostatistics&lt;/h2>
+&lt;ul>
+&lt;li>SPH BS 845 - Data Science and Statistical Modeling in R&lt;/li>
+&lt;/ul></description></item><item><title>Faculty at Vector Institute</title><link>https://fufoundation.co/Faculty-at-Vector-Institute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/Faculty-at-Vector-Institute/</guid><description>&lt;p>A list of faculty at Vector Institute.&lt;/p>
+&lt;h2 id="faculty">Faculty&lt;/h2>
+&lt;ul>
+&lt;li>Anatole von Lilientela&lt;/li>
+&lt;li>Anna Goldenberg&lt;/li>
+&lt;li>Bo Wang&lt;/li>
+&lt;li>Chris Maddison&lt;/li>
+&lt;li>Colin Raffel&lt;/li>
+&lt;li>Daniel Roy&lt;/li>
+&lt;li>Evan Shelhamer&lt;/li>
+&lt;li>Frank Rudzicz&lt;/li>
+&lt;li>Freda Shi&lt;/li>
+&lt;li>Gautam Kamath&lt;/li>
+&lt;li>Geoff Pleiss&lt;/li>
+&lt;li>Graham Taylor&lt;/li>
+&lt;li>Jeff Clune&lt;/li>
+&lt;li>Kelsey Allen&lt;/li>
+&lt;li>Leonid Sigal&lt;/li>
+&lt;li>Michael Brudno&lt;/li>
+&lt;li>Murat Erdogdu&lt;/li>
+&lt;li>Nicolas Papernot&lt;/li>
+&lt;li>Parvin Mousavi&lt;/li>
+&lt;li>Pascal Poupart&lt;/li>
+&lt;li>Rahul G. Krishnan&lt;/li>
+&lt;li>Renjie Liao&lt;/li>
+&lt;li>Roger Grosse&lt;/li>
+&lt;li>Sageev Oore&lt;/li>
+&lt;li>Sanja Fidler&lt;/li>
+&lt;li>Shai Ben-David&lt;/li>
+&lt;li>Sheila Mcllraith&lt;/li>
+&lt;li>Shuang Li&lt;/li>
+&lt;li>Sivan Sabato&lt;/li>
+&lt;li>Vered Shwartz&lt;/li>
+&lt;li>Victor Zhong&lt;/li>
+&lt;li>Wenhu Chen&lt;/li>
+&lt;li>Xi He&lt;/li>
+&lt;li>Xiaoxiao Li&lt;/li>
+&lt;li>Yalda Mohsenzadeh&lt;/li>
+&lt;li>Yaoliang Yu&lt;/li>
+&lt;/ul></description></item><item><title>Ideas</title><link>https://fufoundation.co/Ideas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/Ideas/</guid><description>&lt;p>A collection of thoughts, ideas, and random musings. Many of these evolve into [[projects]] and [[blog posts]].&lt;/p></description></item><item><title>Papers We Love</title><link>https://fufoundation.co/Papers-We-Love/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/Papers-We-Love/</guid><description>&lt;p>A list of papers we love.&lt;/p>
+&lt;h3 id="sequence-level-knowledge-distillation">Sequence-Level Knowledge Distillation&lt;/h3>
+&lt;ul>
+&lt;li>Paper: 
+
+ 
+&lt;a href="https://arxiv.org/abs/1606.07947" rel="noopener" target="_blank" class="external-link">https://arxiv.org/abs/1606.07947&lt;/a>&lt;/li>
+&lt;li>Authors:
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://people.csail.mit.edu/yoonkim/" rel="noopener" target="_blank" class="external-link">Yoon Kim&lt;/a>&lt;/li>
+&lt;li>
+
+ 
+&lt;a href="https://rush-nlp.com" rel="noopener" target="_blank" class="external-link">Alexander M. Rush&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Planet 404</title><link>https://fufoundation.co/Planet-404/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/Planet-404/</guid><description>&lt;p>A mysterious place where lost ideas and broken links find their home. Sometimes you&amp;rsquo;ll find fragments of [[ideas]] and abandoned [[projects]] here.&lt;/p></description></item><item><title>Projects</title><link>https://fufoundation.co/Projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/Projects/</guid><description>&lt;p>A collection of my projects and experiments. Some of these are documented in my [blog posts], and many started as [[ideas]].&lt;/p>
+&lt;h2 id="learning-from-verbal-rules-vs-data-2025---present">Learning from Verbal Rules vs. Data [2025 - Present]&lt;/h2>
+&lt;p>We investigates the efficiency and effectiveness of Large Language Models in learning new systems through two distinct approaches: verbal rule descriptions and data examples. We explore whether LLMs exhibit different learning patterns and performance when presented with explicit rules versus learning from exemplar data.&lt;/p></description></item><item><title>Public Key</title><link>https://fufoundation.co/Public-Key/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/Public-Key/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">-----BEGIN PGP PUBLIC KEY BLOCK-----
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-----END PGP PUBLIC KEY BLOCK-----
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Reading Groups</title><link>https://fufoundation.co/Reading-Groups/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/Reading-Groups/</guid><description>&lt;p>A list of awesome reading groups.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Political Economy and Computer Science Reading Group&lt;/strong>
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://freddyreiber.info/PECS.html" rel="noopener" target="_blank" class="external-link">Website&lt;/a>&lt;/li>
+&lt;li>Organizer: Freddy Reiber and Eugene Kim&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Inequality and Ordeals&lt;/strong>
+&lt;ul>
+&lt;li>
+
+ 
+&lt;a href="https://www.kiragoldner.com/teaching/ordeals/index.html" rel="noopener" target="_blank" class="external-link">Website&lt;/a>&lt;/li>
+&lt;li>Organizer: 
+
+ 
+&lt;a href="http://samueltaggart.com" rel="noopener" target="_blank" class="external-link">Sam Taggart&lt;/a> and 
+
+ 
+&lt;a href="https://www.kiragoldner.com" rel="noopener" target="_blank" class="external-link">Kira Goldner&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Schedule</title><link>https://fufoundation.co/Schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/Schedule/</guid><description>&lt;p>My personal schedule.&lt;/p></description></item><item><title>Sepia</title><link>https://fufoundation.co/Sepia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/Sepia/</guid><description>&lt;h2 id="agents-in-sepia">Agents in Sepia&lt;/h2>
+&lt;p>Every Agent in Sepia follows the same lifecycle:&lt;/p>
+&lt;ul>
+&lt;li>Constructor – called once when the game engine instantiates your agent (no map info yet).&lt;/li>
+&lt;li>initialStep(StateView, HistoryView) – called on turn 0. This is your chance to look at the starting map (units, resources, etc.).&lt;/li>
+&lt;li>middleStep(StateView, HistoryView) – called each turn (1, 2, 3, …) until the game ends. This is where you return actions for your units.&lt;/li>
+&lt;li>terminalStep(StateView, HistoryView) – called after the game ends (e.g. to print out who won or final stats).&lt;/li>
+&lt;/ul></description></item><item><title>Some BU Course Load Stats</title><link>https://fufoundation.co/Some-BU-Course-Load-Stats/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/Some-BU-Course-Load-Stats/</guid><description/></item><item><title>Tennis Wiki</title><link>https://fufoundation.co/Tennis-Wiki/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufoundation.co/Tennis-Wiki/</guid><description/></item></channel></rss>

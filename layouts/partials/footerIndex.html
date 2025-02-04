@@ -1,0 +1,26 @@
+{{if $.Site.Data.config.enableFooter}}
+  {{if $.Site.Data.graphConfig.enableGlobalGraph}}
+      <div class="page-end" id="footer">
+
+        <div>
+            <h3>Global Graph</h3>
+            {{partial "graph.html" .}}
+        </div>
+
+      </div>
+  {{else}}
+      <hr/>
+      <div class="page-end" id="footer">
+        <div class="backlinks-container">
+            {{partial "backlinks.html" .}}
+        </div>
+        <div>
+            <h3>{{ i18n "interactive_graph" }}</h3>
+            {{partial "graph.html" .}}
+        </div>
+
+      </div>
+  {{end}}
+{{end}}
+
+{{partial "contact.html" .}}
